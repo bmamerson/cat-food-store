@@ -1,0 +1,15 @@
+D:\repo\cat-food-store\bin\Debug\net9.0\cat-food-store.exe
+D:\repo\cat-food-store\bin\Debug\net9.0\cat-food-store.deps.json
+D:\repo\cat-food-store\bin\Debug\net9.0\cat-food-store.runtimeconfig.json
+D:\repo\cat-food-store\bin\Debug\net9.0\cat-food-store.dll
+D:\repo\cat-food-store\bin\Debug\net9.0\cat-food-store.pdb
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.AssemblyInfoInputs.cache
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.AssemblyInfo.cs
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.csproj.CoreCompileInputs.cache
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.sourcelink.json
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.dll
+D:\repo\cat-food-store\obj\Debug\net9.0\refint\cat-food-store.dll
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.pdb
+D:\repo\cat-food-store\obj\Debug\net9.0\cat-food-store.genruntimeconfig.cache
+D:\repo\cat-food-store\obj\Debug\net9.0\ref\cat-food-store.dll
